@@ -5,4 +5,10 @@ public class CricketCoach implements Coach{
     public String getDailyWorkout() {
         return "Try to rotate the sides";
     }
+
+    @Override
+    public String getDailyFortune() {
+        // TODO Auto-generated method stub
+        return null;
+    }
 }

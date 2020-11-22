@@ -5,4 +5,10 @@ public class TrackCoach implements Coach{
     public String getDailyWorkout() {
         return "Run a hard 5km";
     }
+
+    @Override
+    public String getDailyFortune() {
+        // TODO Auto-generated method stub
+        return null;
+    }
 }
